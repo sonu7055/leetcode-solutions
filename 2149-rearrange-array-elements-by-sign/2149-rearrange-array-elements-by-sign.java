@@ -2,8 +2,8 @@ class Solution {
     public int[] rearrangeArray(int[] nums) {
         int[] ans = new int[nums.length];
 
-        int pos = 0;
-        int neg = 1;
+        int pos = 0;// Even index for positive numbers
+        int neg = 1; // Odd index for negative numbers
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] > 0) {
