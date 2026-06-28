@@ -15,8 +15,17 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sonu7055/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/sonu7055/leetcode-solutions/tree/master/0443-string-compression) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonu7055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sonu7055/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonu7055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonu7055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
