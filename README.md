@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sonu7055/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sonu7055/leetcode-solutions/tree/master/0169-majority-element) |
 | [1089-duplicate-zeros](https://github.com/sonu7055/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonu7055/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sonu7055/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sonu7055/leetcode-solutions/tree/master/0169-majority-element) |
 | [2815-max-pair-sum-in-an-array](https://github.com/sonu7055/leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 ## Divide and Conquer
